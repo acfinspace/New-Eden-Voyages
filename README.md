@@ -1,10 +1,14 @@
 # New Eden Voyages website
 
-The website for a fictional tour operator based in Jita 4-4, Kimotoro, The Forge, New Eden.
+The website for the fictional tour operator "New Eden Voyages" based in Jita 4-4, Kimotoro, The Forge, New Eden.
 
-Designed by me. Built with Bootstrap. Screenshots by me.
+Built for a Just About bounty.
 
-Accessible at: https://acfinspace.github.io/
+The website is considered to be IC.
+
+Design, content and screenshots by me. Built with Bootstrap.
+
+Accessible at: https://acfinspace.github.io/New-Eden-Voyages/
 
 
 
